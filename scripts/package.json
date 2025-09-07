@@ -1,0 +1,8 @@
+{
+"name": "saros-examples",
+"version": "0.1.0",
+"type": "module",
+"scripts": {
+"hello": "node scripts/hello.js"
+}
+}
